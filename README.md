@@ -60,5 +60,11 @@ Mi experiencia incluye:
 
 ---
 
+## 🎯 Hobbies
+
+- 🔐 **Ciberseguridad / pentesting**: pruebas en laboratorio propio y auditoría de seguridad de mis herramientas
+
+---
+
 ## 📫 Contacto
 - 📧 kuspita20@gmail.com
